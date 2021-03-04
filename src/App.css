@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px+2vmin);
+}
+
+.App-logo {
+  pointer-events: none;
+}
+
+.App-header {
+  /* background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; */
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.survey-main-btn{
+  background-color: #af5f45;
+  width:150px;
+  margin:20px;
+  border:none;
+  padding:10px;
+}
